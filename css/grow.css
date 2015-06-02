@@ -67,7 +67,6 @@ a.read-more {
 	text-transform: uppercase;
 	font-weight: bold;
 	font-size: 28px;
-	text-align: center;
 }
 
 a:link {
@@ -92,4 +91,8 @@ a:active {
 
 .post {
 	padding: 5%;
+}
+
+.entry {
+	font-size: 18px;
 }
