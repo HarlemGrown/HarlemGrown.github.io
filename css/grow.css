@@ -92,3 +92,8 @@ a:active {
 .post {
 	padding: 5%;
 }
+
+.read-more {
+	font-size: 28px;
+	text-align: center;
+}
