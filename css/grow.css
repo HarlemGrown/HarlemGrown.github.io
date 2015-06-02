@@ -98,6 +98,7 @@ a:active {
 }
 
 .date {
-	font-size: 18px;
+	font-size: 32px;
 	color: white;
+	font-weight: bold;
 }
