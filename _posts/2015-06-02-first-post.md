@@ -2,7 +2,7 @@
 title: What are we about?
 author: Nicole Javorsky
 layout: post
-permalink: /first-post/
+permalink: date
 categories:
   - general
 ---
