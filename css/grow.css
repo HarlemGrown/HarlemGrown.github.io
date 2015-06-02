@@ -64,13 +64,26 @@ h3 {
 }
 
 a.read-more {
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 14px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 14px;
 }
 
-a {
-  color: #B2CC64;
-  text-decoration: none;
-  cursor: pointer;
+a:link {
+	color: #B2CC64;
+	text-decoration: none;
 }
+
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #B2CC64;
+	text-decoration: none;
+}
+
+a:active {
+	color: white;
+	text-decoration: none;
