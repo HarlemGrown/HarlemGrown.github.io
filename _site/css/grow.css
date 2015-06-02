@@ -58,7 +58,19 @@ h3 {
 	text-align: center;
 }
 
-#posts {
+.posts {
 	min-height: 800px;
 	background-color: #DEDEDE;
+}
+
+a.read-more {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+a {
+  color: #B2CC64;
+  text-decoration: none;
+  cursor: pointer;
 }
