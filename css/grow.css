@@ -113,3 +113,11 @@ a:active {
 	float: right;
 	margin: 0 0 10px 10px;
 }
+
+.post_img img {
+	width: 400px;
+}
+
+.post_img {
+	float: center;
+}
