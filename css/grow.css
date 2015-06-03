@@ -120,8 +120,14 @@ a:active {
 
 .post_img img {
 	width: 600px;
+	height: auto;
 }
 
-.post_img {
-	float: center;
+.feature_img img {
+	width: 500px;
+	height: auto;
+}
+
+.feature_img {
+	text-align: center;
 }
