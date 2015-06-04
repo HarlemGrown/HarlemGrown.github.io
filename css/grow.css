@@ -73,22 +73,22 @@ a.read-more {
 	font-size: 28px;
 }
 
-a:link {
+a.read-more:link {
 	color: #B2CC64;
 	text-decoration: none;
 }
 
-a:hover {
+a.read-more:hover {
 	color: white;
 	text-decoration: none;
 }
 
-a:visited {
+a.read-more:visited {
 	color: #B2CC64;
 	text-decoration: none;
 }
 
-a:active {
+a.read-more:active {
 	color: white;
 	text-decoration: none;
 }
@@ -143,4 +143,14 @@ footer {
 	padding-bottom: 25px;
 	font-size: 18px;
 	color: black;
+}
+
+a.foot-text {
+	color: black;
+	text-decoration: none;
+}
+
+a.foot-text:visited {
+	color: black;
+	text-decoration: none;
 }
