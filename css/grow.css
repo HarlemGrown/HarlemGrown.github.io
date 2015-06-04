@@ -131,3 +131,9 @@ a:active {
 .feature_img {
 	text-align: center;
 }
+
+footer {
+	height: 70px;
+	text-align: center;
+	background-color: #B2CC64;
+}
