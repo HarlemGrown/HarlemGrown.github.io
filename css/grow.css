@@ -133,12 +133,13 @@ a:active {
 }
 
 footer {
-	height: 100px;
+	height: 150px;
 	text-align: center;
 	background-color: #B2CC64;
 }
 
 .foot-text {
-	padding-top: 15px;
-	padding-bottom: 15px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-size: 18px;
 }
